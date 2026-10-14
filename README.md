@@ -1,1 +1,1 @@
-https://webmail.uos.ac.kr/webhard/popup/webLinkDownloadInput.do?lang=ko&a=NmFjZWRjOTMzZmVmNDMwNDEzODc3NTJi
+	https://webmail.uos.ac.kr/webhard/popup/webLinkDownloadInput.do?lang=ko&a=NmFjZWU2NGMzZmVkZWZjOWM4ZjYzMmIw
